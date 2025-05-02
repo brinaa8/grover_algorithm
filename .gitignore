@@ -1,0 +1,14 @@
+# Ignorar el entorno virtual
+grover_env/
+
+# Ignorar archivos generados por IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación de Python
+*.pyc
+__pycache__/
+
+# Ignorar archivos de logs
+*.log
+
